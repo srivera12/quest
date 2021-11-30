@@ -1,1 +1,1 @@
-const laserStatus = "OFF";
+const laserStatus = 'OFF';
